@@ -1,3 +1,6 @@
+html, body {
+  height: 100%; /*adding 100% to ensure the page will cover the whole viewport height */
+}
 * {
   box-sizing: border-box; }
 
